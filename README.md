@@ -11,7 +11,7 @@ tablet, and desktop devices.
 ### Live Demo
 
 You can view the live version of the survey form here:  
-[Live Demo](#)
+[Live Demo](https://kelv48.github.io/Survey-Form/)
 
 ### Screenshot
 ![Survey Form Screenshot](https://github.com/Kelv48/Survey-Form/blob/main/SurveyForm.png)  
@@ -29,3 +29,7 @@ You can view the live version of the survey form here:
 - **CSS3**: For styling the form and making it responsive.
 - **Flexbox**: To layout the form elements.
 - **Media Queries**: For making the form responsive on different devices.
+
+## Acknowledgments
+<li>This project is part of FreeCodeCamp's Responsive Web Design Certification.</li>
+<li>Thanks to the FreeCodeCamp community for guidance and support.</li>
