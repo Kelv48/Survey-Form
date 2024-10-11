@@ -14,7 +14,7 @@ You can view the live version of the survey form here:
 [Live Demo](#)
 
 ### Screenshot
-![Survey Form Screenshot](#)  
+![Survey Form Screenshot](https://github.com/Kelv48/Survey-Form/blob/main/SurveyForm.png)  
 *(Replace the placeholder link with an actual screenshot of the project)*
 
 ## Features
